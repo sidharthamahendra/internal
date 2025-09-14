@@ -6,3 +6,8 @@ p{
     font-size: 16px;
     color: green;
 }
+vechile{
+    border: 2px solid black;
+    padding: 10px;
+    margin: 10px;
+}
